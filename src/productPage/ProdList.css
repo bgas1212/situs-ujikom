@@ -1,0 +1,29 @@
+.ProdList{
+    margin-top: 12%;
+}
+
+.ProdList img{
+    width: 25%;
+}
+
+.ProdList ul{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.ProdList li{
+    list-style: none;
+    display: flex;
+    margin: 1% auto;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 1%;
+    color: rgb(34, 34, 34);
+}
+
+.deskripsi{
+    margin-left: 4%;
+    font-size: 22px;
+    text-align: left;
+}
